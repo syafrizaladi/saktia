@@ -64,7 +64,7 @@ hr {
   &:hover,
   &:focus,
   &:active {
-    border-bottom: 2px solid $red-color;
+    border-bottom: 2px solid $blue-color;
   }
 }
 
@@ -293,7 +293,7 @@ hr {
     &:focus,
     &:active {
       border-bottom: 2px solid transparent;
-      color: $red-color;
+      color: $blue-color;
     }
   }
 }
