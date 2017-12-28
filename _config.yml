@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: syafrizaladi.github.io
-disqus_shortname: "hnbloggithub"
+disqus_shortname: "syafrizaladi"
 twitter_username: "syafrizaladi"
 comments: true
 
@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Syafrizal Adi Saktia"
   job      : "Scrum Master"
-  bio      : ""The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.""
+  bio      : "The Magical Number Seven, Plus or Minus Two."
   thumb    : /images/author.jpg
   email    : syafrizaladi@saktia.com
   url      : http://syafrizaladi.github.io
