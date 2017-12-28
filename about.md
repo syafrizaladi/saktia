@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hello World! My Name is Rizal, My focus is Manage, Produce & Measure Digital Goods who Has Meaningful Value to affect People.
