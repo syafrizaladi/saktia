@@ -12,6 +12,3 @@ Hello World! My Name is Rizal, My focus is Manage, Produce & Measure Digital Goo
 [Slides](https://www.slideshare.net/SyafrizalAdiSaktia)  
 [Instagram](https://www.instagram.com/syafrizaladi/)  
 
-### Lecturer Activity
-
-[Universitas Gunadarma](http://syafrizal.staff.gunadarma.ac.id/)
