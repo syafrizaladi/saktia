@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Produk
-permalink: /Produk/
+permalink: /produk/
 ---
 
 Daftar Investasi Rintisan Produk Digital dari Syafrizal Adi Saktia
