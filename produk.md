@@ -4,4 +4,4 @@ title: Produk
 permalink: /produk/
 ---
 
-Daftar Investasi Rintisan Produk Digital dari Syafrizal Adi Saktia
+Daftar Investasi rintisan Produk Digital dari Syafrizal Adi Saktia
