@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-111697931-1
 repo: syafrizaladi.github.io
-disqus_shortname: "syafrizaladi"
+disqus_shortname: "hnbloggithub"
 twitter_username: "syafrizaladi"
 comments: true
 
