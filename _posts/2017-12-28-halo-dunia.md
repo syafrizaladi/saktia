@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halo Duni"
+title: "Halo Dunia"
 comments: true
 description: "Halo Dunia merupakan post pertama saya"
 keywords: "Post Pertama"
