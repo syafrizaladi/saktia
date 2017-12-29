@@ -4,7 +4,7 @@ title: Tentang
 permalink: /tentang/
 ---
 
-Halo Dunia! Nama Saya Syafrizal Adi Saktia, Fokus saya adalah mengelola, menghasilkan & mengukur Produk Digital yang mempunyai nilai Berarti untuk Manusia.
+Halo Dunia! Nama Saya Syafrizal Adi Saktia, Fokus saya adalah mengelola, menghasilkan & mengukur Produk Digital yang mempunyai Dampak Positif untuk Manusia.
 
 ### Kehidupan Sosial
 
