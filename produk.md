@@ -4,7 +4,7 @@ title: Produk
 permalink: /produk/
 ---
 
-Merupakan etalase dari rintisan produk oleh SAS dengan tingkatan produk yang masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan:
+Merupakan etalase dari rintisan produk digital oleh SAS dengan tingkatan produk yang masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan:
 <br>
 
 ##### <u>Paramedis</u>
