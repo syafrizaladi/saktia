@@ -13,7 +13,7 @@ Penontoon.com - merupakan komunitas digital yang berisikan mengenai konten berit
 ![Penontoon](https://syafrizaladi.github.io/assets/images/penontoon.png)
 
 ##### <u>Paramedis</u>
-Paramedis.id - merupakan portal kesehatan yang berisikan mengenai informasi kesehatan seputar keluarga dan Ensiklopedia Obat, Herbal dan Penyakit.
+Paramedis.id - merupakan portal kesehatan yang berisikan mengenai informasi kesehatan seputar keluarga, Ensiklopedia Obat, Herbal dan Penyakit.
 
 ![Paramedis](https://syafrizaladi.github.io/assets/images/paramedis.png)
 
