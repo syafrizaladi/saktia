@@ -4,4 +4,4 @@ title: Produk
 permalink: /produk/
 ---
 
-Daftar Investasi rintisan Produk Digital dari Syafrizal Adi Saktia
+Merupakan etalase dari rintisan produk oleh SAS dengan tingkatan produk yang masih berupa validasi ide ke masyarakat:
