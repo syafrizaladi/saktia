@@ -4,7 +4,7 @@ title: Produk
 permalink: /produk/
 ---
 
-Merupakan etalase dari rintisan produk digital oleh SAS dengan tingkatan produk yang masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan:
+Merupakan etalase dari tabungan ide produk digital oleh SAS dengan tingkatan produk yang masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan, kegiatan ini merupakan preventif untuk menghadapi revolusi industri teknologi ke 4.0 di tahun 2020, menurut World Economic Forum:
 <br>
 
 ##### <u>Penontoon</u>
