@@ -4,7 +4,7 @@ title: Produk
 permalink: /produk/
 ---
 
-Merupakan etalase dari tabungan ide produk digital oleh SAS dengan fokus untuk membuat "toothbrush product", yang dimulai dari hal kecil, dimana tingkatan produknya masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan,
+Merupakan daftar dari tabungan ide produk digital oleh SAS dengan fokus untuk membuat "toothbrush product", yang dimulai dari hal kecil, dimana tingkatan produknya masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan,
 
 <br>
 
