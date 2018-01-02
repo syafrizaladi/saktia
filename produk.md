@@ -6,7 +6,7 @@ permalink: /produk/
 
 Merupakan etalase dari tabungan ide produk digital oleh SAS dengan fokus untuk membuat "toothbrush product", dimana tingkatan produknya masih berupa validasi ide ke masyarakat dan masih dalam tahap improvisasi berkelanjutan,
 
-kegiatan ini bersifat inisiatif projek yang merupakan wujud preventif untuk menghadapi revolusi industri teknologi ke 4.0 di tahun 2020, menurut World Economic Forum:
+kegiatan ini bersifat inisiatif projek yang merupakan wujud preventif untuk menghadapi revolusi industri teknologi ke 4 di tahun 2020:
 <br>
 
 ##### <u>Penontoon</u>
