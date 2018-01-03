@@ -8,4 +8,4 @@ author: SyafrizalAdi
 ---
 
 
-Halo Dunia
+Halo Dunia, ini merukapakan post pertama saya, :cheers :D
