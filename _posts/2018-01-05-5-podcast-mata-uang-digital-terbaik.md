@@ -7,7 +7,7 @@ Hosted by Laura Shin.
 ![Unchained](https://syafrizaladi.github.io/assets/images/UNCAINED.jpg){:class="img-responsive"}
 
 3. Coin Mastery  
-Hosted by investor and marketer Carter Thomas.
+Hosted by investor and marketer Carter Thomas.  
 ![CoinMastery](https://syafrizaladi.github.io/assets/images/Coin-Mastery.jpeg){:class="img-responsive"}
 
 4. Bitcoin Uncensored  
