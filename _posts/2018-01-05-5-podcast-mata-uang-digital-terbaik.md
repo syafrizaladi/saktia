@@ -16,11 +16,11 @@ Diselenggarakan oleh Penggiat Bitcoin bernama Chris DeRose dan Joshua Unseth.
 
 5. The bad Crypto Podcast  
 Diselenggarakan oleh penggiat teknologi dan penggiat kriptografi matauang digital bernama Travis Wright dan Joel Comm.  
-![BadCryptoPodcast](https://syafrizaladi.github.io/assets/images/bad-crypto-podcast.jpg){:class="img-responsive"}
+![BadCryptoPodcast](https://syafrizaladi.github.io/assets/images/bad-crypto-podcast.jpg){:class="img-responsive"}  
+  
 
+## PERHATIAN!!!
 
-## PERHATIAN!!
-
-> Perdagangan Digital Asset merupakan aktivitas beresiko tinggi. Harga Digital Asset sangat fluktuatif, di mana harga dapat berubah secara signifikan dari waktu ke waktu. Harap menggunakan pertimbangan ekstra dalam membuat keputusan untuk membeli atau menjual Digital Asset. Bitcoin.co.id tidak memaksa pengguna untuk membeli atau menjual Digital Asset, sebagai investasi, atau aksi mencari keuntungan. Semua keputusan perdagangan Digital Asset merupakan keputusan independen oleh pengguna.
+> Perdagangan Digital Asset merupakan aktivitas beresiko tinggi. Harga Digital Asset sangat fluktuatif, di mana harga dapat berubah secara signifikan dari waktu ke waktu. Harap menggunakan pertimbangan ekstra dalam membuat keputusan untuk membeli atau menjual Digital Asset.
 
 
