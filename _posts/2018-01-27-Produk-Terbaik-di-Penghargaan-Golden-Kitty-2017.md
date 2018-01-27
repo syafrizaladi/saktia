@@ -37,4 +37,4 @@ Berikut adalah Produk terbaik besutan dari Golden Kitty Award sepanjang tahun 20
 9. Firefox Quantum: “The newest, fastest version of Firefox yet!”
 10. Station: “One app to rule them all”
 
-Wow..selamat until Tesla 2 Produk besutan mereka masuk dalam Produk terbaik sepanjang tahun 2017 *cheers
+Wow..selamat untuk Tesla, 2 Produk besutan mereka masuk merupakan Produk terbaik sepanjang tahun 2017 *cheers
